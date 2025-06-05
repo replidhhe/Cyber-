@@ -4,6 +4,10 @@
     "DeveloperMode": false,
     "autoCreateDB": true,
     "notiGroup": true,
+    "iconUnsend": {
+        "status": true,
+        "icon": "😠"
+    },
     "NOTIFICATION": true,
     "allowInbox": false,
     "autoClean": true,
@@ -16,15 +20,15 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️",
-    "PREFIX": "/",
+    "BOTNAME": "💤📿𝐑𝐚𝐡𝐚𝐝 📿💤",
+    "PREFIX": "-",
     "ADMINBOT": [
-        "100000478146113",
-        "61576520552554",
-        "61550035211214"
+        "61574627006558",
+        "",
+        ""
     ],
     "NDH": [
-        "100000478146113"
+        "61574627006558"
     ],
     "DATABASE": {
         "sqlite": {
